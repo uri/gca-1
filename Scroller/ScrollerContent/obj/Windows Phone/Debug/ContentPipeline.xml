@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Block.png</Source>
+      <Name>Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Uri\Dropbox\Programming\Workspaces\2501 - Appathon\Scroller\Scroller\Scroller\bin\Windows Phone\Debug\Content\Block.xnb</Output>
+      <Time>2011-03-11T17:42:35.094-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Player.png</Source>
+      <Name>Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Uri\Dropbox\Programming\Workspaces\2501 - Appathon\Scroller\Scroller\Scroller\bin\Windows Phone\Debug\Content\Player.xnb</Output>
+      <Time>2011-03-13T16:18:47-04:00</Time>
+    </Item>
+    <Item>
+      <Source>b1.png</Source>
+      <Name>b1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Uri\Dropbox\Programming\Workspaces\2501 - Appathon\Scroller\Scroller\Scroller\bin\Windows Phone\Debug\Content\b1.xnb</Output>
+      <Time>2011-03-13T15:04:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>b2.png</Source>
+      <Name>b2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Uri\Dropbox\Programming\Workspaces\2501 - Appathon\Scroller\Scroller\Scroller\bin\Windows Phone\Debug\Content\b2.xnb</Output>
+      <Time>2011-03-13T15:09:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>b3.png</Source>
+      <Name>b3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Uri\Dropbox\Programming\Workspaces\2501 - Appathon\Scroller\Scroller\Scroller\bin\Windows Phone\Debug\Content\b3.xnb</Output>
+      <Time>2011-03-12T00:42:18.0032-05:00</Time>
+    </Item>
+    <Item>
+      <Source>line.png</Source>
+      <Name>line</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Uri\Dropbox\Programming\Workspaces\2501 - Appathon\Scroller\Scroller\Scroller\bin\Windows Phone\Debug\Content\line.xnb</Output>
+      <Time>2011-03-13T16:08:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>line2.png</Source>
+      <Name>line2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Uri\Dropbox\Programming\Workspaces\2501 - Appathon\Scroller\Scroller\Scroller\bin\Windows Phone\Debug\Content\line2.xnb</Output>
+      <Time>2011-03-12T15:09:45.588-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy.png</Source>
+      <Name>Enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Uri\Dropbox\Programming\Workspaces\2501 - Appathon\Scroller\Scroller\Scroller\bin\Windows Phone\Debug\Content\Enemy.xnb</Output>
+      <Time>2011-03-13T12:47:01.277-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Obstacle.png</Source>
+      <Name>Obstacle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Uri\Dropbox\Programming\Workspaces\2501 - Appathon\Scroller\Scroller\Scroller\bin\Windows Phone\Debug\Content\Obstacle.xnb</Output>
+      <Time>2011-03-13T16:30:15-04:00</Time>
+    </Item>
+    <Item>
+      <Source>b0.png</Source>
+      <Name>b0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Uri\Dropbox\Programming\Workspaces\2501 - Appathon\Scroller\Scroller\Scroller\bin\Windows Phone\Debug\Content\b0.xnb</Output>
+      <Time>2011-03-13T15:01:15-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Loop.png</Source>
+      <Name>Loop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Uri\Dropbox\Programming\Workspaces\2501 - Appathon\Scroller\Scroller\Scroller\bin\Windows Phone\Debug\Content\Loop.xnb</Output>
+      <Time>2011-03-13T15:43:43-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Uri\Dropbox\Programming\Workspaces\2501 - Appathon\Scroller\Scroller\Scroller\bin\Windows Phone\Debug\Content\Font.xnb</Output>
+      <Time>2011-03-12T16:13:43.436-05:00</Time>
+    </Item>
+    <Item>
+      <Source>FloatyFont.spritefont</Source>
+      <Name>FloatyFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Uri\Dropbox\Programming\Workspaces\2501 - Appathon\Scroller\Scroller\Scroller\bin\Windows Phone\Debug\Content\FloatyFont.xnb</Output>
+      <Time>2011-03-12T16:44:44.896-05:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.wav</Source>
+      <Name>explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Uri\Dropbox\Programming\Workspaces\2501 - Appathon\Scroller\Scroller\Scroller\bin\Windows Phone\Debug\Content\explosion.xnb</Output>
+      <Time>2011-03-13T11:41:06.93-04:00</Time>
+    </Item>
+    <Item>
+      <Source>jump.wav</Source>
+      <Name>jump</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Uri\Dropbox\Programming\Workspaces\2501 - Appathon\Scroller\Scroller\Scroller\bin\Windows Phone\Debug\Content\jump.xnb</Output>
+      <Time>2011-03-13T11:42:32.763-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Uri\Dropbox\Programming\Workspaces\2501 - Appathon\Scroller\Scroller\ScrollerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Uri\Dropbox\Programming\Workspaces\2501 - Appathon\Scroller\Scroller\Scroller\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Uri\Dropbox\Programming\Workspaces\2501 - Appathon\Scroller\Scroller\ScrollerContent\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Uri\Dropbox\Programming\Workspaces\2501 - Appathon\Scroller\Scroller\Scroller\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-03-11T16:13:13.5682-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
